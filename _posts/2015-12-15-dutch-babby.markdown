@@ -5,7 +5,7 @@ date:   2015-12-15 14:36:23
 tags: [b-fast]
 categories: [Food]
 ---
-<span class="image featured"><img src="/images/dutch-baby.jpg" alt=""></span>
+<span class="image featured"><img src="{{ site.baseurl }}/images/dutch-baby.jpg" alt=""></span>
 
 Makes 2 large pancakes, 4-6 servings each (maybe 2 servings each... for big men)
 

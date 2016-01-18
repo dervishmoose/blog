@@ -4,7 +4,7 @@ title:  "Can we salad bar Black Lives Matter"
 date:   2016-01-10 14:36:23
 categories: Faith
 ---
-<span class="image featured"><img src="/images/blm.jpg" alt="">Photo: Fibonacci Blue Creative Commons</span>
+<span class="image featured"><img src="{{ site.baseurl }}/images/blm.jpg" alt="">Photo: Fibonacci Blue Creative Commons</span>
 When the organization I work for came out in support of parts of Black Lives Matter, my first thought was, “Wait you can do that? You can salad bar Black Lives Matter?” Can you take the parts you like and leave the things you don’t like in a movement? If you are a Christian, you already do that.
 
 Black Lives Matter always seemed a long way away from me. I never took time to think about would I support BLM. As I started to put together the few things that I thought I knew about BLM, I realized that I did not know much about it.  

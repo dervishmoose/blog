@@ -7,7 +7,7 @@ categories: [Web]
 image: lambda-slack.png
 ---
 
-<span class="image featured"><img src="/images/lambda-slack.png" alt=""></span>
+<span class="image featured"><img src="{{ site.baseurl }}/images/lambda-slack.png" alt=""></span>
 It’s like peanut butter and jelly. Good all by themselves, but way better together. Yum! Serverless (formerly JAWS) and Slack, BFF.
 
  I have thought about wring a slack bot to do this or to do that, but I realized that I would need to spin up a server OR host the backend on an existing server. Since I have been preaching about technology debt a lot lately, I ate my own dog food and decided not to spin up my own server.  (… and also to not write a slackbot.)

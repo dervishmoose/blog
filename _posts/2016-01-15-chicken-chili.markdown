@@ -4,7 +4,7 @@ title:  "My Take on BUSH'S® White Chicken Chili"
 date:   2015-12-15 14:36:23
 categories: [Food]
 ---
-<span class="image featured"><img src="/images/chicken-chili.jpg" alt="">Photo <a href="https://www.flickr.com/photos/jeffreyww">jeffreyww</a>  via flickr</span>
+<span class="image featured"><img src="{{ site.baseurl }}/images/chicken-chili.jpg" alt="">Photo <a href="https://www.flickr.com/photos/jeffreyww">jeffreyww</a>  via flickr</span>
 It's chili time again! With minor tweaks I won the crowd favorite in our office chili cook-off with this recipe.
 
 http://allrecipes.com/recipe/bushs-white-chicken-chili/
